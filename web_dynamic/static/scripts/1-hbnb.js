@@ -1,4 +1,3 @@
-// A script that uses JQuery and listens for changes on each input checkbox tag.
 $(document).ready(function () {
   const amenitiesCheck = {};
   $('input[type=checkbox]').change(function () {
